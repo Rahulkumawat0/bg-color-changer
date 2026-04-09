@@ -26,7 +26,7 @@ A beautiful and interactive web application that lets you change the background 
 
 ## 🚀 Live Demo
 
-[View on Vercel](https://bg-changer.vercel.app/) *(Update with your actual Vercel URL)*
+[View on Vercel](https://bg-color-changer-ten-weld.vercel.app/)
 
 ## 📋 Tech Stack
 
